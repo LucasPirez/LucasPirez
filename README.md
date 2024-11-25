@@ -1,4 +1,4 @@
-<p>👋 ¡Hola! Soy Lucas.</p>
+<h3>👋 ¡Hola! Soy Lucas.</h3>
 <p>
     🧑‍💻 Más de 1 año de experiencia en desarrollo de aplicaciones web. Especializado en back end, utilizando tecnologías como: .Net, C#, EntityFramework, SqlServer, PostgreSql, NestJs, React, TypeScript entre otros.
 </p>
